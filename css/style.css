@@ -135,6 +135,7 @@ nav {
     height: 80px;
     align-items: center;
     font-weight: 700;
+    font-size: 1.3rem;
     color: var(--color-text);
     z-index: 0;
 }
